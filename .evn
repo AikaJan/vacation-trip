@@ -1,0 +1,4 @@
+SECRET_KEY=secret-dev
+PORT=3001
+BCRYPT_WORK_FACTOR=12
+DATABASE_URL=mongodb://localhost:27017/vacation
